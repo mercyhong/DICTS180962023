@@ -18,10 +18,11 @@ h4 {
   margin-bottom: 30px;
 }
 .jumbotron {
-  background-color: #eada9e;
+  background: linear-gradient(to bottom, #ffcc00 0%, #ffffcc 100%); 
   color: #fff;
   padding: 100px 25px;
   font-family: Montserrat, sans-serif;
+  margin-bottom: -20px;
 }
 .container-fluid {
   padding: 60px 50px;
